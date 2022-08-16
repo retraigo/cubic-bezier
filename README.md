@@ -13,7 +13,7 @@ const bezier = new CubicBezier(.5,.7,.19,.96);
 console.log(bezier.renderAsCanvas(800).toDataURL())
 ```
 
-[cubic-bezier(.5,.7,.19,.96)](https://raw.githubusercontent.com/retraigo/cubic-bezier/main/examples/curve.png)
+![cubic-bezier(.5,.7,.19,.96)](https://raw.githubusercontent.com/retraigo/cubic-bezier/main/examples/curve.png)
 
 ## License
 MIT as always.
