@@ -4,7 +4,7 @@ Generate a curve with a cubic-bezier in TypeScript.
 ## Usage
 
 ```ts
-import CubicBezier from "https://deno.land/x/cubicbezier@v1.0.0/mod.ts"
+import CubicBezier from "https://deno.land/x/cubicbezier@v0.0.1/mod.ts"
 
 import CubicBezier from "./mod.ts"
 
